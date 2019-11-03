@@ -1,0 +1,20 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: yellow;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
